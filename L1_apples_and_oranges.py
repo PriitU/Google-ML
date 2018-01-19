@@ -4,6 +4,8 @@ Created on Fri Jan 19 15:45:48 2018
 
 @author: ulmas
 
+Using a decision tree classifier
+
 Learning dataset
 WEIGHT  TEXTURE LABEL
 140     smooth  apple
